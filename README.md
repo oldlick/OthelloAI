@@ -1,6 +1,6 @@
-# OthelloAI
-- Learning Othello AI with Genetic Algorithms
-- 遺伝的アルゴリズムによるオセロAIの学習
+# ReversiAI
+- Learning Reversi AI with Genetic Algorithms
+- 遺伝的アルゴリズムによるリバーシAIの学習
 
 ## Contents
 - The following is an image of ![report.pdf](/report.pdf).
